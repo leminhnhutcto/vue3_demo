@@ -7,7 +7,7 @@
 <h1 align="center">Admin Vue 3.2.31</h1>
 
 <p>
-  This repository is a form of original AdminLTE project. It is aim to use AdminLTE template with Vue.
+  This repository is a form of original AdminLTE project. It is aim to use Admin template with Vue.
 </p>
 <br>
 
